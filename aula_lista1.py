@@ -8,3 +8,5 @@ for listas in lista:
     listas[0] = numero
     listas[1] = idade
     listas[2] = escolha
+
+# asdsadsajhdkl
